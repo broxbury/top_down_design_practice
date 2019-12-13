@@ -1,0 +1,14 @@
+1 Pick item to mail
+2 Pick a package
+  2.1 Find dimensions
+    2.1.1 Measure item
+  2.2 Price compare packages
+    2.2.1 Check type of package prices
+      2.2.1.2 Check carrier prices
+  2.3 Determine package material
+3 Package items
+  3.1 Place item in package
+  3.2 Chose safety material to put in package
+    3.2.1 Check house for supply of safety material
+  3.3 Seal package
+4 Mail package
